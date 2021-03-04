@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GhTrend</string>
+    <string name="something_wrong">Error</string>
+    <string name="error_load">Failed to load data.\nPlease check your Internet connections!</string>
+    <string name="refresh">Reload</string>
+
+</resources>
